@@ -1,7 +1,7 @@
 # Git and GitHub Course
 
 1. [Lecture 1: Git and GitHub Introduction](#Lecture-1)
-2. [Lecture 2:Install Git(Mac os)](##Lecture-2)
+2. [Lecture 2:Install Git(Mac os)](#Lecture-2)
 3. [Lecture 3:Install Git(Windows)](#Lecture-3)
 4. [Lecture 4:Enable Git commands autocomplete and colors on mac](#Lecture-4)
 5. [Lecture 5:Branching and Merging](#Lecture-5)
