@@ -1,0 +1,11 @@
+ Volume in drive C is Acer
+ Volume Serial Number is AA3C-A78B
+
+ Directory of C:\Users\cseku\OneDrive\Desktop\myproject
+
+01-02-2021  14:38    <DIR>          .
+01-02-2021  14:38    <DIR>          ..
+01-02-2021  14:38    <DIR>          .git
+01-02-2021  14:38                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  33,167,237,120 bytes free
