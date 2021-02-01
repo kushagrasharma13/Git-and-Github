@@ -1,6 +1,6 @@
 # Git and GitHub Course
 
-#### 1. [Lecture 1: Git and GitHub Introduction](#h1)
+#### 1. [Lecture 1: Git and GitHub Introduction](1. Lecture 1:)
 #### 2. [Lecture 2:Install Git(Mac os)](#h2)
 #### 3. [Lecture 3:Install Git(Windows)](#h3)
 #### 4. [Lecture 4:Enable Git commands autocomplete and colors on mac](#h4)
@@ -36,14 +36,14 @@
 
 *Commands
 
-  - Git init to initialize git.
-  - Git status to displays the state of the working directory and the staging area.
-  - Git add command adds a change in the working directory to the staging area
-  - Git commit -m “…..” to add a commits in a main Respositery.
-  - Git remote add origin https://github.com/RaghavAutomation/R...​
-  - Git push -u origin master push all the commits into the master branch
-  - Git log
-  - Git —help to see all the commands used in Git.
+  - `git init` to initialize git.
+  - `git status` to displays the state of the working directory and the staging area.
+  - `git add` command adds a change in the working directory to the staging area
+  - `git commit -m “…..”` to add a commits in a main Respositery.
+  - `git remote add origin https://github.com/csekushagra13/k.`
+  - `git push -u origin master` push all the commits into the master branch
+  - `git log`
+  - `git —help` to see all the commands used in Git.
 
 ##### 4. Lecture 4:
 
@@ -53,21 +53,21 @@
 
 *Create branch
 
-   -Git branch "branch name".
+   -`git branch "branch name"`.
    
 *heckout branch
 
-   -Git checkout "branch name".
+   -`git checkout "branch name"`.
    
 *Merge new branch in master branch
 
-   -Git merge "branch name"
+   -`git merge "branch name`"
    
 *Delete branch
 
-   -Git branch -d “branch name”     (delete from local).
+   -`git branch -d “branch name” `    (delete from local).
   
-   -Git push origin —delete “branch name”   (delete from remote).
+   -`git push origin —delete “branch name”`  (delete from remote).
 
 ##### 6. Lecture 6:
 
@@ -79,40 +79,40 @@
 
 *Checkout the branch where you want to create the tag
 
-   Git checkout "branch name"
+   `git checkout "branch name"`
 
 *Create tag with some name
 
-   Git tag "tag name"
+   `git tag "tag name"`
 
 *Git tag -a v1.0 -m "ver 1 of .."  (to create annotated tags) 
 
 *Display or Show tags
 
-   Git tag
-   Git show v1.0
-   Git tag -l “v1.*”
+   `git tag`
+   `git show v1.0`
+   `git tag -l “v1.*”`
 
 *Push tags to remote
 
-   Git push origin v1.0
-   Git push origin --tags
+   `git push origin v1.0`
+   `git push origin --tags`
 
 *Delete tags (if required only)
 
    to delete tags from local :
-   Git tag -d v1.0
+   `git tag -d v1.0`
 
 *To delete tags from remote :
 
-   Git push origin -d v1.0
-   Git push origin --delete v1.0
-   Git push origin :v1.0
+   `git push origin -d v1.0`
+   `git push origin --delete v1.0`
+   `git push origin :v1.0`
 
 *To delete multiple tags at once:
 
-   Git tag -d v1.0 v1.1 (local)
-   Git push origin -d v1.0 v1.1 (remote)
+   `git tag -d v1.0 v1.1` (local)
+   `git push origin -d v1.0 v1.1` (remote)
 
 ##### 8. Lecture 8:
 
