@@ -1,6 +1,6 @@
 # Git and GitHub Course
 
-#### 1. [Lecture 1: Git and GitHub Introduction](1.-Lecture-1:)
+#### 1. [Lecture 1: Git and GitHub Introduction](Lecture-1)
 #### 2. [Lecture 2:Install Git(Mac os)](#h2)
 #### 3. [Lecture 3:Install Git(Windows)](#h3)
 #### 4. [Lecture 4:Enable Git commands autocomplete and colors on mac](#h4)
@@ -11,7 +11,7 @@
 
 ###### Summary of this Course.
 
-##### 1. Lecture 1:
+##### Lecture 1
 
 * Git - VCS - Version control system(Open Sourse), Very useful When more than one users working on the same Repositery.
 
