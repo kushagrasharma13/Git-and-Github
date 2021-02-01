@@ -29,14 +29,15 @@
 *If Git is not installed in your system then download Git from https://git-scm.com/.
 *Add your project to git
 *Commands
-  - git init to initialize git.
-  - git status to displays the state of the working directory and the staging area.
-  - git add command adds a change in the working directory to the staging area
-  - git commit -m “…..” to add a commits in a main Respositery.
-  - git remote add origin https://github.com/RaghavAutomation/R...​
-  - git push -u origin master push all the commits into the master branch
-  - git log
-  - git —help to see all the commands used in Git.
+
+  - Git init to initialize git.
+  - Git status to displays the state of the working directory and the staging area.
+  - Git add command adds a change in the working directory to the staging area
+  - Git commit -m “…..” to add a commits in a main Respositery.
+  - Git remote add origin https://github.com/RaghavAutomation/R...​
+  - Git push -u origin master push all the commits into the master branch
+  - Git log
+  - Git —help to see all the commands used in Git.
 
 ###### Lecture 4:
 
@@ -46,18 +47,18 @@
 
 *Create branch
 
-   -git branch "branch name".
+   -Git branch "branch name".
 *heckout branch
 
-   -git checkout "branch name".
+   -Git checkout "branch name".
 *Merge new branch in master branch
 
-   -git merge "branch name"
+   -Git merge "branch name"
 *Delete branch
 
-   -git branch -d “branch name”     (delete from local).
+   -Git branch -d “branch name”     (delete from local).
   
-   -git push origin —delete “branch name”   (delete from remote).
+   -Git push origin —delete “branch name”   (delete from remote).
 
 ###### Lecture 6:
 
@@ -68,34 +69,34 @@
 
 *Checkout the branch where you want to create the tag
 
-git checkout "branch name"
+Git checkout "branch name"
 *Create tag with some name
 
-git tag "tag name"
-*git tag -a v1.0 -m "ver 1 of .."  (to create annotated tags) 
+Git tag "tag name"
+*Git tag -a v1.0 -m "ver 1 of .."  (to create annotated tags) 
 
 *Display or Show tags
 
-git tag
-git show v1.0
-git tag -l “v1.*”
+Git tag
+Git show v1.0
+Git tag -l “v1.*”
 *Push tags to remote
 
-git push origin v1.0
-git push origin --tags
+Git push origin v1.0
+Git push origin --tags
 *Delete tags (if required only)
 
 to delete tags from local :
-git tag -d v1.0
+Git tag -d v1.0
 *To delete tags from remote :
 
-git push origin -d v1.0
-git push origin --delete v1.0
-git push origin :v1.0
+Git push origin -d v1.0
+Git push origin --delete v1.0
+Git push origin :v1.0
 *To delete multiple tags at once:
 
-git tag -d v1.0 v1.1 (local)
-git push origin -d v1.0 v1.1 (remote)
+Git tag -d v1.0 v1.1 (local)
+Git push origin -d v1.0 v1.1 (remote)
 
 ###### Lecture 8:
 
