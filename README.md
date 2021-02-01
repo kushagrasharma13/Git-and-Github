@@ -1,13 +1,13 @@
 # Git and GitHub Course
 
 1. [Lecture 1: Git and GitHub Introduction](#Lecture-1)
-#### 2. [Lecture 2:Install Git(Mac os)](#h2)
-#### 3. [Lecture 3:Install Git(Windows)](#h3)
-#### 4. [Lecture 4:Enable Git commands autocomplete and colors on mac](#h4)
-#### 5. [Lecture 5:Branching and Merging](#h5)
-#### 6. [Lecture 6:How to send e-mail from GitHub](#h6)
-#### 7. [Lecture 7:Git Tags-What,Why,When and How](#h7)
-#### 8. [Lecture 8:Git Merge vs Git Rebase](#h8)
+2. [Lecture 2:Install Git(Mac os)](##Lecture-2)
+3. [Lecture 3:Install Git(Windows)](#Lecture-3)
+4. [Lecture 4:Enable Git commands autocomplete and colors on mac](#Lecture-4)
+5. [Lecture 5:Branching and Merging](#Lecture-5)
+6. [Lecture 6:How to send e-mail from GitHub](#Lecture-6)
+7. [Lecture 7:Git Tags-What,Why,When and How](#Lecture-7)
+8. [Lecture 8:Git Merge vs Git Rebase](#Lecture-8)
 
 ###### Summary of this Course.
 
@@ -22,11 +22,11 @@
     
 *Git and GitHub is Not same.
 
-##### 2. Lecture 2:
+##### Lecture 2
 
 *Download Git in Mac OS
 
-##### 3. Lecture 3:
+##### Lecture 3
 
 *check that your system have already installed Git or not by using git --version command.
 
@@ -45,11 +45,11 @@
   - `git log`
   - `git —help` to see all the commands used in Git.
 
-##### 4. Lecture 4:
+##### Lecture 4
 
 *Enable Git commands autocomplete and colors on mac
 
-##### 5. Lecture 5:
+##### Lecture 5
 
 *Create branch
 
@@ -69,13 +69,13 @@
   
    -`git push origin —delete “branch name”`  (delete from remote).
 
-##### 6. Lecture 6:
+##### Lecture 6
 
 *Github - Repository - Settings - integration & services - add email.
 
 *Test and validate by making some change in the project.
 
-##### 7. Lecture 7:
+##### Lecture 7
 
 *Checkout the branch where you want to create the tag
 
@@ -120,7 +120,7 @@
    
    `git push origin -d v1.0 v1.1` (remote)
 
-##### 8. Lecture 8:
+##### Lecture 8
 
 *Git merge
 
