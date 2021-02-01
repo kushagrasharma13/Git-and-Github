@@ -44,15 +44,15 @@
 
 ###### Lecture 5:
 
-*Create branch 
-   git branch "branch name".
+*Create branch
+   -git branch "branch name".
 *heckout branch
-   git checkout "branch name".
+   -git checkout "branch name".
 *Merge new branch in master branch
-   git merge "branch name"
+   -git merge "branch name"
 *Delete branch
-   git branch -d “branch name”    — delete from local.
-   git push origin —delete “branch name”   — delete from remote.
+   -git branch -d “branch name”     (delete from local).
+   -git push origin —delete “branch name”   (delete from remote).
 
 ###### Lecture 6:
 
