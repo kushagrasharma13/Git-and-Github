@@ -9,7 +9,7 @@
 7. [Lecture 7:Git Tags-What,Why,When and How](#Lecture-7)
 8. [Lecture 8:Git Merge vs Git Rebase](#Lecture-8)
 
-###### Summary of this Course.
+#### Summary of this Course.
 
 ##### Lecture 1
 
