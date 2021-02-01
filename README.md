@@ -45,13 +45,18 @@
 ###### Lecture 5:
 
 *Create branch
+
    -git branch "branch name".
 *heckout branch
+
    -git checkout "branch name".
 *Merge new branch in master branch
+
    -git merge "branch name"
 *Delete branch
+
    -git branch -d “branch name”     (delete from local).
+  
    -git push origin —delete “branch name”   (delete from remote).
 
 ###### Lecture 6:
@@ -62,25 +67,33 @@
 ###### Lecture 7:
 
 *Checkout the branch where you want to create the tag
+
 git checkout "branch name"
 *Create tag with some name
+
 git tag "tag name"
 *git tag -a v1.0 -m "ver 1 of .."  (to create annotated tags) 
+
 *Display or Show tags
+
 git tag
 git show v1.0
 git tag -l “v1.*”
 *Push tags to remote
+
 git push origin v1.0
 git push origin --tags
 *Delete tags (if required only)
+
 to delete tags from local :
 git tag -d v1.0
 *To delete tags from remote :
+
 git push origin -d v1.0
 git push origin --delete v1.0
 git push origin :v1.0
 *To delete multiple tags at once:
+
 git tag -d v1.0 v1.1 (local)
 git push origin -d v1.0 v1.1 (remote)
 
