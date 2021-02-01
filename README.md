@@ -1,17 +1,17 @@
 # Git and GitHub Course
 
-#### 1.[Lecture 1: Git and GitHub Introduction](#h1)
-#### 2.[Lecture 2:Install Git(Mac os)](#h2)
-#### 3.[Lecture 3:Install Git(Windows)](#h3)
-#### 4.[Lecture 4:Enable Git commands autocomplete and colors on mac](#h4)
-#### 5.[Lecture 5:Branching and Merging](#h5)
-#### 6.[Lecture 6:How to send e-mail from GitHub](#h6)
-#### 7.[Lecture 7:Git Tags-What,Why,When and How](#h7)
-#### 8.[Lecture 8:Git Merge vs Git Rebase](#h8)
+#### 1. [Lecture 1: Git and GitHub Introduction](#h1)
+#### 2. [Lecture 2:Install Git(Mac os)](#h2)
+#### 3. [Lecture 3:Install Git(Windows)](#h3)
+#### 4. [Lecture 4:Enable Git commands autocomplete and colors on mac](#h4)
+#### 5. [Lecture 5:Branching and Merging](#h5)
+#### 6. [Lecture 6:How to send e-mail from GitHub](#h6)
+#### 7. [Lecture 7:Git Tags-What,Why,When and How](#h7)
+#### 8. [Lecture 8:Git Merge vs Git Rebase](#h8)
 
 ###### Summary of this Course.
 
-##### Lecture 1:
+##### 1. Lecture 1:
 
 * Git - VCS - Version control system(Open Sourse), Very useful When more than one users working on the same Repositery.
 
@@ -22,11 +22,11 @@
     
 *Git and GitHub is Not same.
 
-##### Lecture 2:
+##### 2. Lecture 2:
 
 *Download Git in Mac OS
 
-##### Lecture 3:
+##### 3. Lecture 3:
 
 *check that your system have already installed Git or not by using git --version command.
 
@@ -45,11 +45,11 @@
   - Git log
   - Git —help to see all the commands used in Git.
 
-##### Lecture 4:
+##### 4. Lecture 4:
 
 *Enable Git commands autocomplete and colors on mac
 
-##### Lecture 5:
+##### 5. Lecture 5:
 
 *Create branch
 
@@ -69,13 +69,13 @@
   
    -Git push origin —delete “branch name”   (delete from remote).
 
-##### Lecture 6:
+##### 6. Lecture 6:
 
 *Github - Repository - Settings - integration & services - add email.
 
 *Test and validate by making some change in the project.
 
-##### Lecture 7:
+##### 7. Lecture 7:
 
 *Checkout the branch where you want to create the tag
 
@@ -114,7 +114,7 @@
    Git tag -d v1.0 v1.1 (local)
    Git push origin -d v1.0 v1.1 (remote)
 
-##### Lecture 8:
+##### 8. Lecture 8:
 
 *Git merge
 
