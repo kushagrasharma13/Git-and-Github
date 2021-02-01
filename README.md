@@ -8,6 +8,8 @@
 ### [Lecture 7:Git Tags-What,Why,When and How](#h7)
 ### [Lecture 8:Git Merge vs Git Rebase](#h8)
 
+Summary of the course
+<h1 id="#h1"> this is my link</h1>
 ##### Lecture 1:
 
 * Git - VCS - Version control system(Open Sourse), Very useful When more than one users working on the same Repositery.
