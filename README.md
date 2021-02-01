@@ -1,6 +1,6 @@
 # Git and GitHub Course
 
-#### 1. [Lecture 1: Git and GitHub Introduction](1. Lecture 1:)
+#### 1. [Lecture 1: Git and GitHub Introduction](1.-Lecture-1:)
 #### 2. [Lecture 2:Install Git(Mac os)](#h2)
 #### 3. [Lecture 3:Install Git(Windows)](#h3)
 #### 4. [Lecture 4:Enable Git commands autocomplete and colors on mac](#h4)
@@ -90,12 +90,15 @@
 *Display or Show tags
 
    `git tag`
+   
    `git show v1.0`
+   
    `git tag -l “v1.*”`
 
 *Push tags to remote
 
    `git push origin v1.0`
+   
    `git push origin --tags`
 
 *Delete tags (if required only)
@@ -106,12 +109,15 @@
 *To delete tags from remote :
 
    `git push origin -d v1.0`
+   
    `git push origin --delete v1.0`
+   
    `git push origin :v1.0`
 
 *To delete multiple tags at once:
 
    `git tag -d v1.0 v1.1` (local)
+   
    `git push origin -d v1.0 v1.1` (remote)
 
 ##### 8. Lecture 8:
