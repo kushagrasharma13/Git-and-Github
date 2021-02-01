@@ -1,6 +1,6 @@
 # Git and GitHub Course
 
-## [ 1. Tutorial 1 - Git and GitHub Introduction](# h1)
+## [ 1. Tutorial 1 - Git and GitHub Introduction](#h1)
 
 [Lecture 1:
 * Git - VCS - Version control system(Open Sourse), Very useful When more than one users working on the same Repositery.
